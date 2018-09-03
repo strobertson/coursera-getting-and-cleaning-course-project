@@ -28,3 +28,5 @@ You should create one R script called run_analysis.R that does the following.
 ## Contents of repo
 
 - run_analysis.R - R script which will download the raw data, process this into a tidy data set and output a text file at the end tidy_data.txt with the complete tidy data set
+- tidy_data.txt - 
+- codebook_tidy_data.pdf - 

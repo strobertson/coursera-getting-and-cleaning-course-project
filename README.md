@@ -30,3 +30,9 @@ You should create one R script called run_analysis.R that does the following.
 - run_analysis.R - R script which will download the raw data, process this into a tidy data set and output a text file at the end tidy_data.txt with the complete tidy data set. Details of the functionality of this script can be found in CodeBook.md
 - tidy_data.txt - The output produced by the run_analysis.R script
 - CodeBook.md - Details of the study design, source and structure of raw data and overview of transformations performed by run_analysis.R
+
+## Running run_analysis.R
+
+All you need to do is run the function in your working directory. The script will create a Data folder, if not already present, and do all the download and extraction process. The final output will be saved in your data folder.
+
+If needed the script will also install and load dplyr to your environemnt.
